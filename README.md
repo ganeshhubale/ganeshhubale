@@ -25,6 +25,10 @@ Here are some ideas to get you started:
 * Tackle UI integration tests
    - Contributed to test cases automation using **Cypess** automation framework with **TypeScript** language and CI implementations using **GitHub actions**
    - https://github.com/konveyor/tackle-ui-tests
+* Automation using Cypress
+   - This project has CI workflows implemented using GitHub action
+   - It has used [demo website](https://www.saucedemo.com/inventory.html) for testing
+   - https://github.com/AutomationFrameworks/Cypress.git
 * Windup integration tests
    - Contributed to test cases automation using python based automation frameworks pytest, widgetastic.core, widgetastic.patternfly4 etc
    - https://github.com/windup/windup_integration_test
