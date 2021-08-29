@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 #### Contributions
 * Python command line tool
-   - Readit - Command Line Bookmark Manager Tool. It is a bookmark manager written in Python. It uses the SQLite3 database to store the bookmarks.
+   - Readit - Command Line Bookmark Manager Tool. It is a bookmark manager written in **Python**. It uses the **SQLite3** database to store the bookmarks.
    - https://github.com/pythonpune/readit
 * ManageIQ integration tests
-   - Contributed to test cases automation using python based automation frameworks pytest, widgetastic.core, widgetastic.patternfly4 etc 
+   - Contributed to test cases automation using python based automation frameworks **pytest**, widgetastic.core, widgetastic.patternfly4 etc 
    -  https://github.com/ManageIQ/integration_tests              
 * Tackle UI integration tests
-   - Contributed to test cases automation using Cypess automation framework with TypeScript language and CI implementations using GitHub actions
+   - Contributed to test cases automation using **Cypess** automation framework with **TypeScript** language and CI implementations using **GitHub actions**
    - https://github.com/konveyor/tackle-ui-tests
 * Windup integration tests
    - Contributed to test cases automation using python based automation frameworks pytest, widgetastic.core, widgetastic.patternfly4 etc
