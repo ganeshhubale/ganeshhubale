@@ -29,7 +29,7 @@ Here are some ideas to get you started:
    - This project has CI workflows implemented using GitHub action
    - It has used [demo website](https://www.saucedemo.com/inventory.html) for testing
    - https://github.com/ganeshhubale/swag-lab-ui-tests
-* Automation using Pytest: Para bank UI Tests
+* Automation using Pytest: Para bank UI Tests [In Progress]
    - Automation of demo site para bank using Pytest and Selenium and CI implementations with GH actions
    - It has used [demo website](https://parabank.parasoft.com) for testing
    - https://github.com/ganeshhubale/para-bank-ui-tests
