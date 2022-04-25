@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 *I’m currently working as Senior Software Engineer - Quality *
+- 🔭 *I’m currently working as Senior Software Engineer - Quality*
 - 🌱 *I’m currently learning Docker, Kubernetes*
 - 👯 *I’m looking to collaborate on OpenSource tools related to automation testing*
 - 💬 *Ask me about Python, Cypress, GitHub actions*
