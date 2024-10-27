@@ -48,6 +48,6 @@ Here are some ideas to get you started:
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshhubale&layout=compact&show_icons=true&locale=en" alt="ganeshhubale" /></p> -->
 
 
-# summary
+#### Summary
 [![hand-dot's GitHub stats](https://github-readme-stats.vercel.app/api?username=ganeshhubale&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/ganeshhubale/)
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshhubale&layout=compact&theme=tokyonight)](https://github.com/ganeshhhubale/)
