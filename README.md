@@ -20,6 +20,10 @@ Here are some ideas to get you started:
    - Readit - Command Line Bookmark Manager Tool. It is a bookmark manager written in **Python**. It uses the **SQLite3** database to store the bookmarks.
    - https://github.com/pythonpune/readit
 
+* PurgePro - File Cleaner
+   - PurgePro is a streamlined solution for managing file clutter. This tool effortlessly removes obsolete files and optimizes storage space, making it easier for users to maintain an organized system.
+   - The project showcases my ability to write efficient shell scripts and implement clean coding practices. You can check out the source code [here](https://github.com/ganeshhubale/PurgePro).
+
 * ManageIQ integration tests
    - Contributed to test cases automation using python based automation frameworks **pytest**, widgetastic.core, widgetastic.patternfly4 etc.
    - Authored multiple PRs for ManageIQ UI Tests. View my contributions [on GitHub.](https://github.com/ManageIQ/integration_tests/pulls?q=is%3Apr+author%3Aganeshhubale+is%3Aclosed)
