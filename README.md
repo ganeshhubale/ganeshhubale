@@ -38,7 +38,7 @@ Here are some ideas to get you started:
    - https://github.com/ganeshhubale/swag-lab-ui-tests
 
 * Miqbox project 
-   - This is used to spin ManageIQ appliances locally with Virtualization. Contributed by fixing a issue.
+   - This is used to spin ManageIQ appliances locally with Virtualization. Contributed by fixing a [issue](https://github.com/digitronik/miqbox/pulls?q=is%3Apr+is%3Aclosed+author%3Aganeshhubale).
    - https://github.com/digitronik/miqbox
 
 #### Languages and Tools
