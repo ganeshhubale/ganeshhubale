@@ -36,10 +36,10 @@ Here are some ideas to get you started:
    - Contributed to test cases automation using python based automation frameworks pytest, widgetastic.core, widgetastic.patternfly4 etc
    - Authored multiple PRs for Windup UI Tests. View my contributions [on GitHub.](https://github.com/windup/windup_integration_test/pulls?q=is%3Apr+is%3Aclosed+author%3Aganeshhubale)
 
-* Automation using Cypress: Swag Labs UI Tests
+* **Automation using Cypress: Swag Labs UI Tests**
    - This project has CI workflows implemented using GitHub action
    - It has used [demo website](https://www.saucedemo.com/inventory.html) for testing
-   - https://github.com/ganeshhubale/swag-lab-ui-tests
+   - Source: https://github.com/ganeshhubale/swag-lab-ui-tests
 
 * Miqbox project 
    - This is used to spin ManageIQ appliances locally with Virtualization. Contributed by fixing a [issue](https://github.com/digitronik/miqbox/pulls?q=is%3Apr+is%3Aclosed+author%3Aganeshhubale).
